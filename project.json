@@ -1,0 +1,10 @@
+{
+  "name": "diaryapp",
+  "description": "A simple Diary API using Serverless architecture",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::737181868008:role/diaryapp_lambda_function",
+  "environment": {},
+  "profile": "default",
+  "runtime": "python3.6"
+}

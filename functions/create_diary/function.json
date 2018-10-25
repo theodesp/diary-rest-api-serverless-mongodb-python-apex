@@ -1,0 +1,7 @@
+{
+  "description": "Creates a new Diary",
+  "handler": "handler.handle",
+  "hooks":{
+    "build": "pip install -r requirements.txt -t ."
+  }
+}
